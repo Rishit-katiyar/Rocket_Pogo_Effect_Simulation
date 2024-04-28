@@ -56,25 +56,25 @@ A simplified representation of the propulsion system dynamics can be expressed u
     <img width="336" alt="eq00001" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/ebf060ae-2c7d-45b1-a0fc-6bd65a1730d9">
 </p>
   
-  where:
-    - \(\dot{m}\) is the mass flow rate,
-    - \(C_d\) is the discharge coefficient,
-    - \(A\) is the cross-sectional area of the nozzle,
-    - \(\Delta P\) is the pressure drop across the nozzle, and
-    - \(\rho\) is the density of the propellant.
+where:
+  - \(\dot{m}\) is the mass flow rate,
+  - \(C_d\) is the discharge coefficient,
+  - \(A\) is the cross-sectional area of the nozzle,
+  - \(\Delta P\) is the pressure drop across the nozzle, and
+  - \(\rho\) is the density of the propellant.
 
 - **Thrust equation:**
 
 <p align="center">
     <img width="401" alt="eq00002" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/11de9160-b406-4b02-bf34-6d30bb427140">
-</div>
+</p>
   
-  where:
-    - \(F\) is the thrust force,
-    - \(v_e\) is the exhaust velocity,
-    - \(P_e\) is the pressure at the exit of the nozzle,
-    - \(P_a\) is the ambient pressure, and
-    - \(A_e\) is the area of the nozzle exit.
+where:
+  - \(F\) is the thrust force,
+  - \(v_e\) is the exhaust velocity,
+  - \(P_e\) is the pressure at the exit of the nozzle,
+  - \(P_a\) is the ambient pressure, and
+  - \(A_e\) is the area of the nozzle exit.
 
 ### Vehicle Structural Dynamics
 
@@ -84,7 +84,7 @@ A simplified model of the vehicle's structural dynamics can be represented by a 
 
 <p align="center">
     <img width="375" alt="eq00003" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/1f14d1e7-2315-4798-babe-cd8414c553c4">
-</div>
+</p>
 
 where:
   - \(m\) is the mass of the vehicle,
