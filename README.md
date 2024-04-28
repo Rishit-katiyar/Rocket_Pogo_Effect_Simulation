@@ -52,7 +52,9 @@ A simplified representation of the propulsion system dynamics can be expressed u
 
 - **Mass flow rate equation:**
 
-  <img width="336" alt="eq00001" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/ebf060ae-2c7d-45b1-a0fc-6bd65a1730d9">
+<div style="text-align:center;">
+    <img width="336" alt="eq00001" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/ebf060ae-2c7d-45b1-a0fc-6bd65a1730d9">
+</div>
   
   where:
     - \(\dot{m}\) is the mass flow rate,
@@ -63,7 +65,9 @@ A simplified representation of the propulsion system dynamics can be expressed u
 
 - **Thrust equation:**
 
-  <img width="401" alt="eq00002" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/11de9160-b406-4b02-bf34-6d30bb427140">
+<div style="text-align:center;">
+    <img width="401" alt="eq00002" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/11de9160-b406-4b02-bf34-6d30bb427140">
+</div>
   
   where:
     - \(F\) is the thrust force,
@@ -78,7 +82,9 @@ The structural dynamics of the vehicle are governed by equations of motion that 
 
 A simplified model of the vehicle's structural dynamics can be represented by a set of coupled second-order differential equations. For example, considering a one-degree-of-freedom model for longitudinal motion:
 
-<img width="375" alt="eq00003" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/1f14d1e7-2315-4798-babe-cd8414c553c4">
+<div style="text-align:center;">
+    <img width="375" alt="eq00003" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/1f14d1e7-2315-4798-babe-cd8414c553c4">
+</div>
 
 where:
   - \(m\) is the mass of the vehicle,
