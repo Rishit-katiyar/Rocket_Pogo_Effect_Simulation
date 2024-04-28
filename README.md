@@ -73,30 +73,6 @@ where:
 
 The Pogo effect refers to the undesirable oscillations experienced by a rocket along its longitudinal axis during powered flight. These oscillations result from the interaction between the propulsion system dynamics and the structural dynamics of the vehicle.
 
-## Installation
-
-To run the simulation, follow these steps:
-
-1. Clone this repository to your local machine:
-
-    ```bash
-    git clone https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd Rocket_Pogo_Effect_Simulation
-    ```
-
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-Absolutely, let's expand the "Usage" section with more detailed instructions and commands:
-
 ## Usage
 
 To run the simulation, follow these steps:
