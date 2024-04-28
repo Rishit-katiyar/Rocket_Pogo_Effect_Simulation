@@ -50,10 +50,10 @@ The dynamics of the propulsion system are described by equations that govern the
 
 A simplified representation of the propulsion system dynamics can be expressed using a lumped-parameter model. For example:
 
-- Mass flow rate equation:
-  \[
+- **Mass flow rate equation:**
+  ```latex
   \dot{m} = C_d A \sqrt{\frac{2\Delta P}{\rho}}
-  \]
+  ```
   where:
     - \(\dot{m}\) is the mass flow rate,
     - \(C_d\) is the discharge coefficient,
@@ -61,10 +61,10 @@ A simplified representation of the propulsion system dynamics can be expressed u
     - \(\Delta P\) is the pressure drop across the nozzle, and
     - \(\rho\) is the density of the propellant.
 
-- Thrust equation:
-  \[
+- **Thrust equation:**
+  ```latex
   F = \dot{m} v_e + (P_e - P_a) A_e
-  \]
+  ```
   where:
     - \(F\) is the thrust force,
     - \(v_e\) is the exhaust velocity,
@@ -78,9 +78,9 @@ The structural dynamics of the vehicle are governed by equations of motion that 
 
 A simplified model of the vehicle's structural dynamics can be represented by a set of coupled second-order differential equations. For example, considering a one-degree-of-freedom model for longitudinal motion:
 
-\[
+```latex
 m \ddot{x} + c \dot{x} + k x = F_{\text{ext}} + F_{\text{Pogo}}
-\]
+```
 
 where:
   - \(m\) is the mass of the vehicle,
