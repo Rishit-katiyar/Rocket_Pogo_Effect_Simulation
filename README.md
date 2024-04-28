@@ -51,7 +51,9 @@ The dynamics of the propulsion system are described by equations that govern the
 A simplified representation of the propulsion system dynamics can be expressed using a lumped-parameter model. For example:
 
 - **Mass flow rate equation:**
+
   <img width="336" alt="eq00001" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/ebf060ae-2c7d-45b1-a0fc-6bd65a1730d9">
+  
   where:
     - \(\dot{m}\) is the mass flow rate,
     - \(C_d\) is the discharge coefficient,
@@ -60,7 +62,9 @@ A simplified representation of the propulsion system dynamics can be expressed u
     - \(\rho\) is the density of the propellant.
 
 - **Thrust equation:**
+
   <img width="401" alt="eq00002" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/11de9160-b406-4b02-bf34-6d30bb427140">
+  
   where:
     - \(F\) is the thrust force,
     - \(v_e\) is the exhaust velocity,
@@ -73,7 +77,9 @@ A simplified representation of the propulsion system dynamics can be expressed u
 The structural dynamics of the vehicle are governed by equations of motion that describe its translational and rotational motion. These equations typically include terms related to mass, stiffness, damping, and external forces.
 
 A simplified model of the vehicle's structural dynamics can be represented by a set of coupled second-order differential equations. For example, considering a one-degree-of-freedom model for longitudinal motion:
+
 <img width="375" alt="eq00003" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/1f14d1e7-2315-4798-babe-cd8414c553c4">
+
 where:
   - \(m\) is the mass of the vehicle,
   - \(x\) is the displacement of the vehicle,
