@@ -99,7 +99,7 @@ where:
 
 To model the interaction between the propulsion system and the vehicle structure, coupling equations are used to relate the forces exerted by the propulsion system to the resulting structural displacements. These equations capture the transfer of energy and momentum between the propulsion system and the vehicle.
 
-<div style="text-align:center;">
+<div align="center">
     ![rocket_animation](https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/931cfb28-f2bb-47e3-ac89-4ea3cc5fd781)
 </div>
 
