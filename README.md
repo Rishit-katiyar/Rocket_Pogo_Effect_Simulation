@@ -95,13 +95,58 @@ To run the simulation, follow these steps:
     pip install -r requirements.txt
     ```
 
+Absolutely, let's expand the "Usage" section with more detailed instructions and commands:
+
 ## Usage
 
-Once you've installed the dependencies, you can run the simulation using the provided Python script:
+To run the simulation, follow these steps:
 
-```bash
-python rocket_simulation.py
-```
+1. Clone this repository to your local machine using Git:
+
+    ```bash
+    git clone https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Rocket_Pogo_Effect_Simulation
+    ```
+
+3. Before running the simulation, ensure you have Python installed on your system. You can download Python from [here](https://www.python.org/downloads/).
+
+4. Install the required dependencies using `pip`. It's recommended to create a virtual environment before installing dependencies:
+
+    ```bash
+    python -m venv venv         # Create a virtual environment
+    source venv/bin/activate    # Activate the virtual environment (for Linux/Mac)
+    .\venv\Scripts\activate     # Activate the virtual environment (for Windows)
+    pip install -r requirements.txt
+    ```
+
+    This will install all the necessary packages required to run the simulation.
+
+5. Once the dependencies are installed, you can execute the simulation script by running:
+
+    ```bash
+    python rocket_simulation.py
+    ```
+
+6. This will launch the simulation interface, which provides various options such as:
+   - Update simulation parameters: Allows you to modify parameters such as mass flow rate, discharge coefficient, nozzle area, etc.
+   - Save the animation: Saves the simulation animation as a video file for further analysis or presentation.
+   - Show the default simulation (recommended): Displays the default simulation of the Pogo effect with predefined parameters.
+   - Quit: Exits the simulation interface.
+
+7. Select the appropriate option by entering the corresponding number and pressing Enter.
+
+8. If you choose to update simulation parameters, follow the on-screen prompts to input the desired values for each parameter. Press Enter to confirm each input.
+
+9. After selecting the desired options, the simulation will run and display the results in real-time. You can observe the behavior of the rocket and analyze the Pogo effect.
+
+10. Once you're done with the simulation, you can exit the interface by selecting the "Quit" option or closing the simulation window.
+
+These detailed instructions provide a comprehensive guide for running the simulation and interacting with the interface. Feel free to explore different options and parameters to gain insights into the dynamics of the Pogo effect.
 
 The script will display a menu with options to update simulation parameters, save the animation, show the default simulation (recommended), or quit.
 
