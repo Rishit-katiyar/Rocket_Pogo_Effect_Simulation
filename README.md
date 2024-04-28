@@ -101,6 +101,7 @@ The simulation allows for the analysis of Pogo-induced oscillations and the asse
 <p align="center">
     <img width="500" alt="eq0040" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/906a630c-6022-4ebe-89ec-ebbf6bb747c1">
 </p>
+
 ### Coupling Equations
 
 To model the interaction between the propulsion system and the vehicle structure, coupling equations are used to relate the forces exerted by the propulsion system to the resulting structural displacements. These equations capture the transfer of energy and momentum between the propulsion system and the vehicle.
