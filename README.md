@@ -3,6 +3,9 @@
 Welcome to the Rocket Pogo Effect Simulation repository! 🚀
 
 This project aims to simulate the Pogo effect, also known as Pogo oscillation or Pogo instability, observed in rockets and aerospace vehicles during powered flight. The simulation provides insights into the dynamics of the propulsion system and the structural response of the vehicle to mitigate the Pogo effect.
+<p align="center">
+    <img width="500" alt="eq0040" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/906a630c-6022-4ebe-89ec-ebbf6bb747c1">
+</p>
 
 ## Index
 
@@ -17,9 +20,6 @@ This project aims to simulate the Pogo effect, also known as Pogo oscillation or
 ## Mathematical Formulation
 
 The simulation is based on mathematical equations that describe the dynamics of the propulsion system and the structural dynamics of the vehicle. These equations include:
-<p align="center">
-    <img width="500" alt="eq0040" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/906a630c-6022-4ebe-89ec-ebbf6bb747c1">
-</p>
 
 ### Propulsion System Dynamics
 
