@@ -63,6 +63,7 @@ where:
   - \(\Delta P\) is the pressure drop across the nozzle, and
   - \(\rho\) is the density of the propellant.
 
+
 - **Thrust equation:**
 
 <p align="center">
