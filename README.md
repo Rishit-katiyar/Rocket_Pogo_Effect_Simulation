@@ -7,10 +7,10 @@ This project aims to simulate the Pogo effect, also known as Pogo oscillation or
 ## Index
 
 1. [Mathematical Formulation](#mathematical-formulation)
-2. [Overview](#overview)
-3. [Usage](#usage)
-4. [Analysis and Mitigation](#analysis-and-mitigation)
-5. [Coupling Equations](#coupling-equations)
+2. [Coupling Equations](#coupling-equations)
+3. [Overview](#overview)
+4. [Usage](#usage)
+5. [Analysis and Mitigation](#analysis-and-mitigation)
 6. [License](#license)
 
 ## Mathematical Formulation
