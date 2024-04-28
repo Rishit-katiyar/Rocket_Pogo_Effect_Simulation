@@ -17,6 +17,9 @@ This project aims to simulate the Pogo effect, also known as Pogo oscillation or
 ## Mathematical Formulation
 
 The simulation is based on mathematical equations that describe the dynamics of the propulsion system and the structural dynamics of the vehicle. These equations include:
+<p align="center">
+    <img width="500" alt="eq0040" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/906a630c-6022-4ebe-89ec-ebbf6bb747c1">
+</p>
 
 ### Propulsion System Dynamics
 
@@ -129,10 +132,6 @@ The script will display a menu with options to update simulation parameters, sav
 ## Analysis and Mitigation
 
 The simulation allows for the analysis of Pogo-induced oscillations and the assessment of mitigation strategies. Engineers can explore modifications to the propulsion system, structural enhancements, and active control systems to minimize the Pogo effect and ensure mission safety and stability.
-
-<p align="center">
-    <img width="500" alt="eq0040" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/906a630c-6022-4ebe-89ec-ebbf6bb747c1">
-</p>
 
 ## Coupling Equations
 
