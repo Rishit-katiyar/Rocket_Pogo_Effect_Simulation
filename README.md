@@ -17,7 +17,7 @@ This project aims to simulate the Pogo effect, also known as Pogo oscillation or
 
 The simulation is based on mathematical equations that describe the dynamics of the propulsion system and the structural dynamics of the vehicle. These equations include:
 <p align="center">
-    <img width="500" alt="eq0040" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/906a630c-6022-4ebe-89ec-ebbf6bb747c1">
+    <img width="500" alt="eq0040" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/995ac581-2161-4164-897e-746c007c26d6">
 </p>
 
 ### Propulsion System Dynamics
