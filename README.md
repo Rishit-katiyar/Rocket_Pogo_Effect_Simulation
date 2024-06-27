@@ -29,7 +29,7 @@ A simplified representation of the propulsion system dynamics can be expressed u
 - **Mass flow rate equation:**
 
 <p align="center">
-    <img width="336" alt="eq00001" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/ea9afe1b-ae9c-42e5-ba7d-236b7600148a">
+    <img width="336" alt="eq00001" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/151b7f93-143f-4fbc-a0ed-6a8d5c743ce9">
 </p>
 
 where:
