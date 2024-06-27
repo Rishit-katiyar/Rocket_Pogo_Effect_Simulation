@@ -29,9 +29,9 @@ A simplified representation of the propulsion system dynamics can be expressed u
 - **Mass flow rate equation:**
 
 <p align="center">
-    <img width="336" alt="eq00001" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/ebf060ae-2c7d-45b1-a0fc-6bd65a1730d9">
+    <img width="336" alt="eq00001" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/ea9afe1b-ae9c-42e5-ba7d-236b7600148a">
 </p>
-  
+
 where:
   - \(\dot{m}\) is the mass flow rate,
   - \(C_d\) is the discharge coefficient,
