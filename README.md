@@ -140,6 +140,10 @@ These detailed instructions provide a comprehensive guide for running the simula
 
 The script will display a menu with options to update simulation parameters, save the animation, show the default simulation (recommended), or quit.
 
+<p align="center">
+    <img width="600" alt="eq0040" src="https://github.com/Rishit-katiyar/Rocket_Pogo_Effect_Simulation/assets/167756997/8ba72781-5cdc-40f9-b31a-bb370b4a5e6c">
+</p>
+
 ## Analysis and Mitigation
 
 The simulation allows for the analysis of Pogo-induced oscillations and the assessment of mitigation strategies. Engineers can explore modifications to the propulsion system, structural enhancements, and active control systems to minimize the Pogo effect and ensure mission safety and stability.
