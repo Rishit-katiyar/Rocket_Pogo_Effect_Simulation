@@ -1,12 +1,4 @@
 
-
-
-s
-
-
-
-
-
 # Explanation 
 
 ```python
